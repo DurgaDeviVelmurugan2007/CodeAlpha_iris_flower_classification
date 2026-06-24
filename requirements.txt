@@ -1,0 +1,18 @@
+Required Libraries :
+
+1) pandas
+2) numpy
+3) matplotlib
+4) scikit-learn
+5) jupyter
+
+Purpose of each library :
+Library	Purpose :
+
+1) pandas :	Loading and manipulating the Iris dataset
+2) numpy :	Numerical operations and array handling
+3) matplotlib :	Creating plots such as the accuracy plot and confusion matrix
+4) scikit-learn :	Machine learning algorithms, train-test split, and evaluation metrics
+5) jupyter :	Running the project in a Jupyter Notebook (.ipynb)
+
+
