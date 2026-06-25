@@ -16,10 +16,6 @@ seaborn>=0.12.0
 # Machine learning and model evaluation
 scikit-learn>=1.3.0
 
-# Jupyter Notebook environment
-jupyter>=1.0.0
-notebook>=7.0.0
-
 # Supporting libraries for scikit-learn
 scipy>=1.11.0
 joblib>=1.3.0
@@ -43,10 +39,6 @@ seaborn	≥ 0.12.0
 => Used to create attractive statistical visualizations, especially the heatmap representation of the confusion matrix.
 scikit-learn	≥ 1.3.0	
 => Provides machine learning tools such as dataset splitting, Decision Tree classifier, accuracy calculation, confusion matrix generation, and classification reports.
-jupyter	≥ 1.0.0	
-=> Provides an interactive environment for developing and executing Python code in notebook format (.ipynb).
-notebook	≥ 7.0.0	
-=> Enables the Jupyter Notebook interface and manages notebook execution.
 scipy	≥ 1.11.0	
 => Supports scientific and mathematical operations used internally by Scikit-learn.
 joblib	≥ 1.3.0	
@@ -120,31 +112,9 @@ Display feature importance graph.
 Visualize model performance.
 
 
-
 ---
 
-4. Interactive Development Environment
-
-Libraries Used:
-
-Jupyter
-
-Notebook
-
-
-Functions:
-
-Create and run iris_classification.ipynb.
-
-Execute code cell by cell.
-
-Document the project with explanations and outputs.
-
-
-
----
-
-5. Supporting Dependencies
+4. Supporting Dependencies
 
 Libraries Used:
 
